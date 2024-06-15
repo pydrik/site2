@@ -28,3 +28,38 @@ img{
     text-align: center;
     height:100px;
 }
+
+h1{
+    text-align:center;
+    color:blue;
+}
+h2{
+    text-align:center;
+    color:yellow;
+}
+footer{
+    color: white;
+    font-size: 30px;
+}
+nav{
+    width: 100%;
+    border: 2px solid grey;
+    background-color: black;
+}
+nav a{
+    text-decoration: none;
+    color: red;
+    padding-left: 40px;
+ font-size: 20px;
+}
+img{
+    text-align: center;
+    height:100px;
+}
+
+footer a{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
